@@ -5,7 +5,7 @@
 # i'll answer. if you will execute it
 # like this:
 # 
-# ./mkvar-fixed-malicious.sh "echo \"Hack\'d! :D\"" 'just a variable value. :)'
+# ./mkvar-fixed-malicious.sh "echo \"Hack\'d! :D\"; any_name" 'just a variable value. :)'
 # 
 # you can put any malicious code
 # that will be executed.
