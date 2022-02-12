@@ -7,6 +7,9 @@
 # 
 # ./mkvar-fixed-malicious.sh "echo \"Hack\'d! :D\"; any_name" 'just a variable value. :)'
 # 
+# or like this:
+# ./mkvar-fixed-malicious.sh 'mkdir a; b' 'just a variable value. :)'
+# 
 # you can put any malicious code
 # that will be executed.
 # do you understand me?
